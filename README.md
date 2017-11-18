@@ -1,8 +1,8 @@
-#sagr Atlasboard package
+# sagr Atlasboard package
 
 This is a package ready to be used with [Atlasboard](https://bitbucket.org/atlassian/atlasboard).
 
-##Installation
+## Installation
 
 From the root directory of your **recently created wallboard**, you just need to type:
 
